@@ -1,12 +1,13 @@
+# Timeclock Framework
 A timeclock framework for tracking future shifts, shift replacements, and hours worked.
 
-Features:
+**Features:**
 None :(
 
-In progress features:
+**In progress features:**
 None :(
 
-Planned features:
+**Planned features:**
 Shift tracking
 Shift replacement requests
 Requesting periods of time off
@@ -14,3 +15,4 @@ Shift replacements notifications
 Shift overview Table
 Tracking contact information
 A personalized view for the different workers
+
